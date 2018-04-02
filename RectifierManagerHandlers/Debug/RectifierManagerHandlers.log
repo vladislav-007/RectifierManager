@@ -1,8 +1,4 @@
-﻿  RectifierManagerDoc.cpp
-  RectifierManagerView.cpp
-  RectifierManagerHandlers.cpp
-  Generating Code...
-     Creating library D:\Work\Git\RectifierManager\Debug\RectifierManagerHandlers.lib and object D:\Work\Git\RectifierManager\Debug\RectifierManagerHandlers.exp
-  RectifierManagerHandlers.vcxproj -> D:\Work\Git\RectifierManager\Debug\RectifierManagerHandlers.dll
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(1793,5): warning MSB3075: The command "regsvr32 /s "D:\Work\Git\RectifierManager\Debug\RectifierManagerHandlers.dll"" exited with code 5. Please verify that you have sufficient rights to run this command.
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(1805,5): error MSB8011: Failed to register output. Please try enabling Per-user Redirection or register the component from a command prompt with elevated permissions.
+﻿  RectifierManagerHandlers.vcxproj -> D:\Work\Git\RectifierManager\Debug\RectifierManagerHandlers.dll
+  Setting permissions on handler DLL (to enable load by SearchFilterHost.exe)...
+  processed file: D:\Work\Git\RectifierManager\Debug\RectifierManagerHandlers.dll
+  Successfully processed 1 files; Failed processing 0 files
